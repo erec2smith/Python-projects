@@ -42,6 +42,9 @@ types = {
     ".svg":"Images",
     ".bmb":"Images",
     ".ico":"Images",
+
+    ".exe":"Applications",
+    ".apk":"Applications"
     }
 
 
